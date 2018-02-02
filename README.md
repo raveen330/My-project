@@ -1,2 +1,2 @@
 # My-project
-Jenkins training project
+Jenkinss training project
